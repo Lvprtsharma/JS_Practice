@@ -1,0 +1,1 @@
+This is a demo file for testing the difference between sync and async operations of JS. It will be very helpful in examining.
